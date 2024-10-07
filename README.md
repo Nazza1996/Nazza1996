@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0e526025-5385-4a28-9774-7f8c552a69e3" alt="print("Hello World)" being typed out">
-</div>
-
-
 # 💫 About Me:
 🎓 Im an Undergraduate Computer Science Student<br>👨‍💻 Seeking a software development role for my placement year<br>🎮 Passionate gamer (especially story games🪓)<br>🔤 Love to code and create useful software<br>🕝 Currently working on Screen Diary, a screen time app for Windows 11. Almost done!<br>🌱 Currently learning C++<br>📫 You can reach me on my Discord, or professionally on LinkedIn. Both are linked below :)
 
