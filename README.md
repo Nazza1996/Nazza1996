@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🎓 Undergraduate Computer Science Student
-<br> 💼 Intern Software Engineer at EventMAP
 <br> 🎮 Passionate gamer (especially story games🪓)
 <br> 🔤 Love to code and create useful software
 <br> 📫 You can reach me on my Discord, or professionally on LinkedIn. Both are linked below :)
